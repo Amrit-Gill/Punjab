@@ -1,0 +1,34 @@
+{
+  "uuid": "83f8e1ec-737e-40df-b82b-675534c11ff6",
+  "shortName": "Bancho",
+  "longName": "Bancho",
+  "companyName": "Amrit-Gill",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+	{
+	"type": "font",
+	"name": "FONT_LOHIT_PUNJABI_26",
+	"file": "lohit.punjabi.ttf"
+	},
+	{
+	"type": "font",
+	"name": "FONT_PRABHKI_32",
+	"file": "Akaash-Bold.ttf"
+	},
+	{
+	  "type": "bitmap",
+	  "name": "IMAGE_BACKGROUND",
+	  "file": "punjab.png"
+	}
+]
+  }
+}
